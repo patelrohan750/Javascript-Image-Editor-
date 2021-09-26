@@ -1,7 +1,7 @@
 # JavaScript
 ## Javascript-Image-Editor
 
-You can see the [Demo](https://patelrohan750.github.io/Javascript-Image-Editor-/){:target="_blank"}
+You can see the [Demo](https://patelrohan750.github.io/Javascript-Image-Editor-/){:target="_blank" rel="noopener"}
 
 
 ## Features
